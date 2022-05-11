@@ -1,9 +1,6 @@
 name: Code Quality checks for PRs
 
 on:
-  push:
-    branches:
-      - dev
   pull_request:
 
 jobs:
