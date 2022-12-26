@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "This is a basic template repository for any python Project."
 authors = ["Choukha Ram"]
 readme = "README.md"
-packages = [{include = "python_basic_template"}]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.10"
