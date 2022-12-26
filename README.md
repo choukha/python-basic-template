@@ -37,5 +37,5 @@ poetry add pandas numpy
 ```
 or if only required for development
 ```
-poetry add --dev pandas
+poetry add pytest --group dev
 ```
